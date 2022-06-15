@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions, cases, and case questions for the
+  case analysis assignments required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

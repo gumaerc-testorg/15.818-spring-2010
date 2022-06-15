@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  lecture notes, textbook, class discussion, grading, and forming teams for case analysis
+  and group presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +38,7 @@ Forming Teams for Case Analysis and Group Presentations
 
 I would like you to form teams of three to analyze cases and prepare a group presentation. An ideal way to form a team would be to identify teammates who want to work on a similar topic area for the group project.
 
-You should discuss cases with your team prior to class. In particular, you should answer the case questions which are found in the [Assignments]({{< baseurl >}}/pages/assignments) section of this course. As you know, there are rarely right answers to cases. In pricing there tend to be a few more wrong answers, but the right answer depends on the assumptions you make about facts not presented in the case. You should therefore be clear about your assumptions during case discussions.
+You should discuss cases with your team prior to class. In particular, you should answer the case questions which are found in the {{% resource_link 72c2d64e-9dd0-0662-4462-b1b28a21ebdc "Assignments" %}} section of this course. As you know, there are rarely right answers to cases. In pricing there tend to be a few more wrong answers, but the right answer depends on the assumptions you make about facts not presented in the case. You should therefore be clear about your assumptions during case discussions.
 
 Each team member must make a substantial contribution to the assignment. It is not, for example, acceptable to divide the assignments amongst the team members (e.g., part of the team does one case and another member does another case). The team may not collaborate with other students outside of the team.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section details the assigned readings for this course, which include
+  case studies, lecture notes, and sections from the textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
