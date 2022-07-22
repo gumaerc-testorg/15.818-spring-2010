@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides an overview of the a group pricing strategy project
+  and step-by-step guidelines.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 54b1615e-ee29-3ac1-69b1-1364f2327e48
 ---

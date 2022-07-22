@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, class activities,
+  and exams for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 828fac0e-0e4f-c23e-678a-1a5535c5dcd9
 ---

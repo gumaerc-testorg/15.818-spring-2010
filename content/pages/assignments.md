@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions, cases, and case questions for the
+  case analysis assignments required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 72c2d64e-9dd0-0662-4462-b1b28a21ebdc
 ---
